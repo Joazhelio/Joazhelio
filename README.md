@@ -29,7 +29,6 @@ Desenvolvedor em evolucao, construindo projetos web com foco em interface limpa,
 ## Contato
 
 - GitHub: [@Joazhelio](https://github.com/Joazhelio)
-- Email: joaohelioaguiardasilva331@gmail.com
 
 ---
 
