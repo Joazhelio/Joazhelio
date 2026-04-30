@@ -1,35 +1,37 @@
 ﻿# Joao Helio
 
-Desenvolvedor em evolucao, construindo projetos web com foco em interface limpa, experiencia mobile e codigo pratico.
+Estudante de programacao em evolucao, focado em construir base forte no fullstack.
 
-## Sobre mim
+## Situacao atual
 
-- Foco atual: HTML, CSS, JavaScript e Git/GitHub
-- Estudando todos os dias com projetos reais
-- Objetivo: criar produtos simples, uteis e bem acabados
+- Setup: concluido
+- HTML5: concluido
+- CSS3: em andamento (41%)
 
-## Projetos em destaque
+## Proximos passos
 
-- [Controle de Presenca](https://github.com/Joazhelio/controle-presenca)
-  - Demo: [joazhelio.github.io/controle-presenca](https://joazhelio.github.io/controle-presenca/)
-- [Cronograma ENEM](https://github.com/Joazhelio/Cannot-GET-cronogramaenem)
-- [Flashcards Study System](https://github.com/Joazhelio/flashcards-study-system)
-- [Projeto Perfil de Links Sociais](https://github.com/Joazhelio/Projeto-Perfil-de-links-sociais)
+- Finalizar CSS3
+- Comecar JavaScript I, II e III
+- Depois, Git e GitHub
 
-## Stack
+## Depois disso
 
-`HTML` `CSS` `JavaScript` `Git` `GitHub`
+- JavaScript avancado
+- CSS moderno / Bootstrap
+- React + TypeScript
+- Node.js + Banco de Dados
 
-## Metas
+## Forma de estudo
 
-- Evoluir para projetos front-end mais completos
-- Fortalecer arquitetura e organizacao de codigo
-- Publicar mais projetos com demo online
+- Estou aprendendo na base, sem depender de IA no processo principal.
+- A ideia e usar IA como apoio quando eu estiver com base fullstack consolidada.
+- Meus repositorios continuam publicos porque tem gente usando.
 
 ## Contato
 
 - GitHub: [@Joazhelio](https://github.com/Joazhelio)
+- Email: joaohelioaguiardasilva331@gmail.com
 
 ---
 
-Sempre melhorando um projeto por vez.
+Sempre melhorando um nivel por vez.
